@@ -1,0 +1,6 @@
+{
+  "name": "Thai-English Morse Code Telegraph Studio",
+  "description": "Interactive Thai and English Morse code translator, CW audio synthesizer, optical signal flasher, interactive keyer, and learning dictionary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
